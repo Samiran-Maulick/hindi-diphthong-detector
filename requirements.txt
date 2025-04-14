@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+deep-translator>=1.11.4
+pronouncing>=0.2.0
+tk
