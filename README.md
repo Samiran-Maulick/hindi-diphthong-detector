@@ -12,6 +12,6 @@ This project detects diphthongs from speech inputs, with support for **Hindi** a
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/multilingual-diphthong-detector.git
-cd multilingual-diphthong-detector
+git clone https://github.com/yourusername/hindi-diphthong-detector.git
+cd hindi-diphthong-detector
 pip install -r requirements.txt
