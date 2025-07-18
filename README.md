@@ -3,7 +3,7 @@ This project detects diphthongs from speech inputs, with support for **Hindi** a
 ## 🚀 Features
 
 - Accepts **Hindi speech input**
-- Converts Hindi speech to text using `wav2vec2` (or your chosen model)
+- Converts Hindi speech to text using `wav2vec2`
 - Translates Hindi text to English using [translation method/service]
 - Performs **diphthong detection** using CMU Pronouncing Dictionary
 - Command-line interface (or web/GUI if applicable)
